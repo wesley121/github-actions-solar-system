@@ -1,4 +1,6 @@
   name: Solar System Workflow
+  permissions:
+    packages: write
   on:
     workflow_dispatch: null
     push:
